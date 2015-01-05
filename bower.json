@@ -1,0 +1,27 @@
+{
+  "name": "ember-di",
+  "version": "0.0.1",
+  "homepage": "https://github.com/cleverplatypus/ember-di",
+  "authors": [
+    "cleverplatypus <ndalpont@gmail.com>"
+  ],
+  "description": "A dependency injection and signal integration library for EmberJS",
+  "main": "dist/main.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "emberjs",
+    "signals",
+    "dependency",
+    "injection"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
