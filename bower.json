@@ -12,7 +12,7 @@
   ],
   "dependencies": {
     "ember": "1.8.0",
-    signals": "1.0.0"
+    "signals": "1.0.0"
   },
   "keywords": [
     "emberjs",
